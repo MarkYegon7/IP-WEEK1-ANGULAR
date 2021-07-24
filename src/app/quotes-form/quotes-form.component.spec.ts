@@ -8,8 +8,9 @@ describe('QuotesFormComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [QuotesFormComponent],
-    }).compileComponents();
+      declarations: [ QuotesFormComponent ]
+    })
+    .compileComponents();
   });
 
   beforeEach(() => {

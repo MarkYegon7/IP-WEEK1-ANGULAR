@@ -1,1 +1,6 @@
-<p>quote-details works!</p>
+<p>
+    {{ quote.description }}
+</p>
+<p>This Quote was said on {{ quote.completeDate | dateCount }} days</p>
+<p>Upvotes:{{ quote.upvotes }}</p>
+<p>Downvotes:{{ quote.downvotes }}</p>
