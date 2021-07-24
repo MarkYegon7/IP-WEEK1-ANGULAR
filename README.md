@@ -6,19 +6,19 @@ Quotes-app
 
 Mark Yegon
 
-###Description of pages
+### Description of pages
 
 A quote generating app
 
-####Project set up insruction
+#### Project set up insruction
 
 Download Quotes-app
 
-######Link to live github pages
+###### Link to live github pages
 
 https://markyegon7.github.io/IP-WEEK1-ANGULAR/
 
-###### #License
+###### # License
 
 Copyright (c) 2021 MarkYegon7
 
